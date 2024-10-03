@@ -327,3 +327,16 @@ td {
     background-color: #6cb55d;
     width: 70%;
 }
+
+.progress-Cs {
+    border-radius: 15px;
+    height: 25px;
+    background-color: #6cb55d;
+    width: 50%;
+}
+.progress-unity{
+    border-radius: 15px;
+    height: 25px;
+    background-color: #6cb55d;
+    width: 50%; 
+}
